@@ -1,5 +1,5 @@
-![](public/Pink_Db.png)
 #### Pink Db
+<img src="public/Pink_Db.png" alt="drawing" width="200"/>
 Pink is Atila's dog.
 Atila had to study C language to College test.
 Then, Pink Db was born :dog:

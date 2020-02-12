@@ -1,4 +1,4 @@
-![](public/Pink_Db.png =100x100)
+![](public/Pink_Db.png)
 #### Pink Db
 Pink is Atila's dog.
 Atila had to study C language to College test.
@@ -15,4 +15,4 @@ Run
 ```
 ./run.sh
 ```
-![](public/First.gif')
+![](public/First.gif)

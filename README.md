@@ -1,4 +1,4 @@
-![](public/Pink_Db.png)
+![](public/Pink_Db.png){:height="50%" width="50%"}
 #### Pink Db
 Pink is Atila's dog.
 Atila had to study C language to College test.

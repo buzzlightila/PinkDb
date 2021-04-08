@@ -15,4 +15,4 @@ Run
 ```
 ./run.sh
 ```
-![](public/First.gif)
+![](public/Example.gif)
